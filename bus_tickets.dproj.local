@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.252,=A:\project\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.824,=A:\project\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,A:\project\delphi\user_input.pas=A:\project\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,A:\project\delphi\main.dfm=A:\project\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=A:\project\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,A:\project\delphi\user_input.dfm=A:\project\delphi\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,A:\project\delphi\newtrip.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,A:\project\delphi\newtrip.pas=A:\project\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,A:\project\delphi\Unit1.pas=A:\project\delphi\trips.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,=A:\project\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=A:\project\delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,A:\project\delphi\tables.pas=A:\project\delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,A:\project\delphi\Unit1.dfm=A:\project\delphi\trips.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,A:\project\delphi\tables.dfm=A:\project\delphi\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,A:\project\delphi\main.pas=A:\project\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,A:\project\delphi\newtrip.dfm=A:\project\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,A:\project\delphi\Project1.dproj=A:\project\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,A:\project\delphi\Project1.dproj=A:\project\delphi\bus_tickets.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
